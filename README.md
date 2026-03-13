@@ -12,7 +12,7 @@ A poem-writing agent built with the [Strands Agents SDK](https://github.com/stra
 Install the required dependencies:
 
 ```bash
-pip install strands-agents strands-agents-tools
+pip install -r requirements.txt
 ```
 
 ## Running the Agent
